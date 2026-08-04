@@ -1,0 +1,5 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/obj/Debug/net10.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/obj/Debug/net10.0/Exercicios.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/obj/Debug/net10.0/Exercicios.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/obj/Debug/net10.0/Exercicios.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/obj/Debug/net10.0/Exercicios.sourcelink.json
