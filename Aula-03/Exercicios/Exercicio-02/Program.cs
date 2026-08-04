@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-    
+       
         int num1;
         int num2;
         Console.Write("Digite o Primeiro Número: ");
