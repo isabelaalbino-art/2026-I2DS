@@ -35,15 +35,13 @@
         encontrar = Console.ReadLine();
 
 
-        if (listaProdutos[i] == encontrar)
-         {
-            Console.WriteLine("Produto encontrado!");
-            Console.WriteLine("Produto: " + listaProdutos[i]);
-Console.WriteLine("Preço: " + precoProdutos[i]);   
-
-        }
-
-       
+        for (int i = 0; i < listaProdutos.Length; i++) 
+        { if (listaProdutos[i] == encontrar) 
+        {
+             Console.WriteLine("Produto encontrado!"); 
+             Console.WriteLine("Produto: " + listaProdutos[i]);
+             Console.WriteLine("Preço: " + precoProdutos[i]);
+          } }
 
 
 
