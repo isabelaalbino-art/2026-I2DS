@@ -2,42 +2,23 @@
 {
     private static void Main(string[] args)
     {
-    
-        int num1;
-        int num2;
-        Console.Write("Digite o Primeiro Número: ");
-        num1 = int.Parse(Console.ReadLine());
+        /*
+            Desenvolva um programa que permita ao usuário informar uma temperatura em graus Celsius e realizar a conversão para Fahrenheit.
+            A fórmula utilizada é: Fahrenheit = (Celsius * 9 / 5) + 32
+            # Requisitos
+            
+            O programa deve:
+            1. Solicitar uma temperatura em Celsius;
+            2. Realizar a conversão;
+            3. Exibir o resultado em Fahrenheit.
+        */
 
-        Console.Write("Digite o Segundo Número: ");
-        num2 = int.Parse(Console.ReadLine());
+        int celsius;
+        Console.Write("Digite a temperatura em Graus Celsius: ");
+        celsius = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("1 - Soma");
-        Console.WriteLine("2 - Subtração");
-        Console.WriteLine("3 - Multiplicação");
-        Console.WriteLine("4 - Divisão");
+        double fahrenheit = (celsius * 9 / 5) + 32;
 
-        string operacao;
-        
-        Console.Write("Selecione uma Operação: ");
-        operacao = Console.ReadLine();
-
-        switch (operacao)
-        {
-            case "1": 
-                Console.WriteLine(num1 + num2);
-                break;
-            case "2": 
-                Console.WriteLine(num1 - num2);
-                break;
-            case "3": 
-                Console.WriteLine(num1 * num2);
-                break;
-            case "4": 
-                Console.WriteLine(num1 / num2);
-                break;
-            default:
-                Console.WriteLine("Operador informado não é válido.");
-                break;
-        }
+        Console.WriteLine("A temperatura em Fahrenheit é: " + fahrenheit);
     }
 }

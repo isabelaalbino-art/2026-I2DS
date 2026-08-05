@@ -26,7 +26,7 @@ public static void Ola(string nome)
 
     public static double Calcular(double num1, double num2, string operador)
     {
-       double resultado = 0;
+    double resultado = 0;   
 
         switch (operador)
         {
