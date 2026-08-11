@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/bin/Debug/net10.0/livro
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/bin/Debug/net10.0/livro.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/bin/Debug/net10.0/livro.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/bin/Debug/net10.0/livro.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/bin/Debug/net10.0/livro.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/refint/livro.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/livro.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-01/livro/obj/Debug/net10.0/ref/livro.dll
